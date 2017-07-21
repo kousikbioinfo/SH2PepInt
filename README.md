@@ -46,19 +46,22 @@ e.g. SH2PepInt pY-peptides.fasta models/GRB2.fasta
 The model file is OPTIONAL, by default the program uses all the 51 model for the predictions. 
 
 
-
-
 Files:
 -----------------
 sample.fasta: sample file for run the tool
 pY-peptides.fasta: All the phosphotyrosine peptides reported in PhosphoSitePlus database.
 
 
+Webserver:
+-----------------
+http://modpepint.informatik.uni-freiburg.de/SH2PepInt/Input.jsp
+
+
 Contact: 
 -----------------
 Kousik Kundu <kk8@sanger.ac.uk>
 
-Publication:
+Citation:
 -----------------
 * Kousik Kundu, Martin Mann, Fabrizio Costa, and Rolf Backofen.
 [MoDPepInt: An interactive webserver for prediction of modular domain-peptide interactions
