@@ -1,9 +1,7 @@
 SH2PepInt
 ====
 
-
-SH2PepInt is a prediction tool for SH2-peptide interactions, based on SVM. 
-Current version contains a total 51 human SH2 domain models. 
+SH2PepInt has been developed to predict binding partners of 51 human SH2 domains. Peptides are restrained to 7 amino acids length, i.e. -2 to +4 amino acids around the pTyr position. Depending on the user requirement it uses [PhosphoSitePlus](http://www.phosphosite.org/homeAction.action) and [Gene Ontology](http://www.ebi.ac.uk/QuickGO/) databases for predicting highly reliable SH2-peptide interactions.
 
 SH2PepInt 1.0, November, 2012 
 
