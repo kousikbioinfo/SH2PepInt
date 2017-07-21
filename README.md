@@ -5,8 +5,8 @@ SH2PepInt
 SH2PepInt is a prediction tool for SH2-peptide interactions, based on SVM. 
 Current version contains a total 51 human SH2 domain models. 
 
-SH2PepInt 1.0
-November, 2012 
+SH2PepInt 1.0, November, 2012 
+
 Authors: Kousik Kundu, Fabrizio Costa, Michael Huber, Michael Reth and Rolf Backofen
 
 Platform:
@@ -17,12 +17,6 @@ Unix and Linux
 
 Installation:
 ------------
-
-A current version of SH2PepInt you can get from:
-
-http://www.bioinf.uni-freiburg.de/Software/SH2PepInt
- 
-or please write an email to Kousik Kundu <kk8@sanger.ac.uk>
 
 To install the tool, please extract the src archive somewhere. Then change
 into that directory and type
@@ -60,6 +54,21 @@ sample.fasta: sample file for run the tool
 pY-peptides.fasta: All the phosphotyrosine peptides reported in PhosphoSitePlus database.
 
 
+Contact: 
+-----------------
+Kousik Kundu <kk8@sanger.ac.uk>
+
+Publication:
+-----------------
+* Kousik Kundu, Martin Mann, Fabrizio Costa, and Rolf Backofen
+
+[MoDPepInt: An interactive webserver for prediction of modular domain-peptide interactions
+Bioinformatics, 2014.](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btu350)
+
+* Kousik Kundu, Fabrizio Costa, Michael Huber, Michael Reth, and Rolf Backofen
+
+[Semi-Supervised Prediction of SH2-Peptide Interactions from Imbalanced High-Throughput Data
+PLoS One, 8(5), pp. e62732, 2013.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062732)
 
 
 
