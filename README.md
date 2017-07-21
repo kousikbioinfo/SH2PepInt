@@ -60,11 +60,11 @@ Kousik Kundu <kk8@sanger.ac.uk>
 
 Publication:
 -----------------
-* Kousik Kundu, Martin Mann, Fabrizio Costa, and Rolf Backofen
+* Kousik Kundu, Martin Mann, Fabrizio Costa, and Rolf Backofen.
 [MoDPepInt: An interactive webserver for prediction of modular domain-peptide interactions
 Bioinformatics, 2014.](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btu350)
 
-* Kousik Kundu, Fabrizio Costa, Michael Huber, Michael Reth, and Rolf Backofen
+* Kousik Kundu, Fabrizio Costa, Michael Huber, Michael Reth, and Rolf Backofen.
 [Semi-Supervised Prediction of SH2-Peptide Interactions from Imbalanced High-Throughput Data
 PLoS One, 8(5), pp. e62732, 2013.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062732)
 
