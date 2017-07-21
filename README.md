@@ -18,9 +18,9 @@ Installation:
 
 To install the tool, please extract the src archive somewhere. Then change
 into that directory and type
-
+```
   bash COMPILE.sh
-
+```
 the script compiles the SVM-light and  
 creates the master script, namely SH2PepInt.sh. 
 
@@ -36,11 +36,11 @@ In order to compile SH2PepInt correctly, you need "PERL" already installed.
 
 Usage:
 --------------
-
+```
 SH2PepInt <protein/peptide fasta file> <model file>
 
 e.g. SH2PepInt pY-peptides.fasta models/GRB2.fasta
-
+```
 The model file is OPTIONAL, by default the program uses all the 51 model for the predictions. 
 
 
