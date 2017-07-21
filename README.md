@@ -22,7 +22,7 @@ A current version of SH2PepInt you can get from:
 
 http://www.bioinf.uni-freiburg.de/Software/SH2PepInt
  
-or please write an email to Kousik Kundu <kousik@sanger.ac.uk>
+or please write an email to Kousik Kundu <kk8@sanger.ac.uk>
 
 To install the tool, please extract the src archive somewhere. Then change
 into that directory and type
