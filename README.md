@@ -1,4 +1,5 @@
-======================SH2PepInt===============================================
+SH2PepInt
+====
 
 
 SH2PepInt is a prediction tool for SH2-peptide interactions, based on SVM. 
