@@ -22,7 +22,7 @@ into that directory and type
   bash COMPILE.sh
 ```
 the script compiles the SVM-light and  
-creates the master script, namely SH2PepInt.sh. 
+creates the master script, namely SH2PepInt.sh.
 
 
 
