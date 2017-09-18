@@ -9,7 +9,7 @@ perl make-peptides.pl -i $TEMPDIR/input_seq_file.txt -o $TEMPDIR/output_seq_file
 perl make-dat-file.pl -i $TEMPDIR/output_seq_file.txt -o $TEMPDIR/Test-file.dat;
 
 echo -e "Seq-ID:\tPosition:\tSequence:" > $TEMPDIR/header1.txt;
-#echo $MODEL;
+
 if [ "$MODEL" != "" ] ; then
 	basename ${MODEL%.*}|tr '\n' '\t' >> $TEMPDIR/header2.txt;
 	svm_light/svm_classify $TEMPDIR/Test-file.dat $MODEL $TEMPDIR/output.txt > $TEMPDIR/classify-STDOUT.txt;
